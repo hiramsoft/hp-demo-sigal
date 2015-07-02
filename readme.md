@@ -1,9 +1,11 @@
-Sigal Demonstration of Hiram Pages
+Demonstration of Sigal and Hiram Pages
 =======
 
-This fork of Sigal has a few small changes to build and publish the sample gallery to a Hiram Pages Bucket.
+This fork of Sigal has a few small changes to build and publish the sample gallery to a [Hiram Pages](https://www.hirampages.com) Bucket.
 
-The original project is at [https://github.com/saimn/sigal](https://github.com/saimn/sigal)
+The original project is at [https://github.com/saimn/sigal](https://github.com/saimn/sigal).
+
+For example, it includes the [Hiram Pages Bridge](https://github.com/hiramsoft/hp-bridge) inline at *hp-bridge.html*.
 
 How to get sigal working in your bucket:
 
