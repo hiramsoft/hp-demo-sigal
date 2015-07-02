@@ -14,3 +14,4 @@ docs/_build
 htmlcov/
 output/
 .DS_Store
+.idea
