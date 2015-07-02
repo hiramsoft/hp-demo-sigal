@@ -18,21 +18,21 @@ Screenshots
 
 These screenshots reflect what you should see:
 
-![Screenshot 1](./hp-screenshots/ss_1.tiff)
+![Screenshot 1](./hp-screenshots/ss_1.png)
 
-![Screenshot 1](./hp-screenshots/ss_2.tiff)
+![Screenshot 2](./hp-screenshots/ss_2.png)
 
-![Screenshot 1](./hp-screenshots/ss_3.tiff)
+![Screenshot 3](./hp-screenshots/ss_3.png)
 
-![Screenshot 1](./hp-screenshots/ss_4.tiff)
+![Screenshot 4](./hp-screenshots/ss_4.png)
 
-![Screenshot 1](./hp-screenshots/ss_5.tiff)
+![Screenshot 5](./hp-screenshots/ss_5.png)
 
 
 We've also tested by uploading our favorite images from unsplash:
 
-![Screenshot 1](./hp-screenshots/ss_unsplash_1.tiff)
+![Unsplash Screenshot 1](./hp-screenshots/ss_unsplash_1.png)
 
-![Screenshot 1](./hp-screenshots/ss_unsplash_2.tiff)
+![Unsplash Screenshot 2](./hp-screenshots/ss_unsplash_2.png)
 
 When this gallery is hosted on S3 and locked by Hiram Pages, only people you allow may view the photos.
